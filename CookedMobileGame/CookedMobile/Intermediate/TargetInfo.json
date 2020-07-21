@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CookedMobile",
+			"Path": "C:\\Users\\Liam\\Documents\\GameCreation\\CookedMobileGame\\CookedMobile\\Source\\CookedMobile.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CookedMobileEditor",
+			"Path": "C:\\Users\\Liam\\Documents\\GameCreation\\CookedMobileGame\\CookedMobile\\Source\\CookedMobileEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

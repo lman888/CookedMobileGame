@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CookedMobile.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6037053F-E14D-49A5-A0F8-0728C3201AC5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CookedMobile.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CookedMobileEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F63F3617-4F76-46FD-BEC4-B3D02DD15197}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CookedMobile">
+      <UniqueIdentifier>{4D798555-CF12-4D34-9074-11BAD53C4619}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CookedMobile\CookedMobile.Build.cs">
+      <Filter>Source\CookedMobile</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CookedMobile\CookedMobile.cpp">
+      <Filter>Source\CookedMobile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CookedMobile\CookedMobile.h">
+      <Filter>Source\CookedMobile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CookedMobile\CookedMobileGameModeBase.cpp">
+      <Filter>Source\CookedMobile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CookedMobile\CookedMobileGameModeBase.h">
+      <Filter>Source\CookedMobile</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

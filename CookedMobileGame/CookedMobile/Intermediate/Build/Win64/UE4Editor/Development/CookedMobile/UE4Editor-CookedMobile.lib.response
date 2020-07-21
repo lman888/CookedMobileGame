@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CookedMobile.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Liam\Documents\GameCreation\CookedMobileGame\CookedMobile\Intermediate\Build\Win64\CookedMobileEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Liam\Documents\GameCreation\CookedMobileGame\CookedMobile\Intermediate\Build\Win64\UE4Editor\Development\CookedMobile\CookedMobile.cpp.obj"
+"C:\Users\Liam\Documents\GameCreation\CookedMobileGame\CookedMobile\Intermediate\Build\Win64\UE4Editor\Development\CookedMobile\CookedMobileGameModeBase.cpp.obj"
+"C:\Users\Liam\Documents\GameCreation\CookedMobileGame\CookedMobile\Intermediate\Build\Win64\UE4Editor\Development\CookedMobile\CookedMobile.init.gen.cpp.obj"
+"C:\Users\Liam\Documents\GameCreation\CookedMobileGame\CookedMobile\Intermediate\Build\Win64\UE4Editor\Development\CookedMobile\CookedMobileGameModeBase.gen.cpp.obj"
+"C:\Users\Liam\Documents\GameCreation\CookedMobileGame\CookedMobile\Intermediate\Build\Win64\UE4Editor\Development\CookedMobile\Default.rc2.res"
+/OUT:"C:\Users\Liam\Documents\GameCreation\CookedMobileGame\CookedMobile\Intermediate\Build\Win64\UE4Editor\Development\CookedMobile\UE4Editor-CookedMobile.lib"
+/INCLUDE:IMPLEMENT_MODULE_CookedMobile
